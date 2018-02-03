@@ -1,0 +1,32 @@
+a#link-1:link {
+    color: green;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    background-color: chartreuse;
+}
+
+a#link-4:hover {
+    background-color: aqua;
+    color: magenta;
+}
+
+div.tabela .klient:first-child{
+    background-color:aqua;
+}
+
+div.tabela .klient:last-child {
+    background-color: burlywood;
+}
+
+div.tabela :nth-child(7){
+    background-color: gold;
+}
+
+div.tabela :nth-child(4n +5) {
+    background-color: cadetblue;
+}
