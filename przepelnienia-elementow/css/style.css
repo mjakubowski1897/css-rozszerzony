@@ -1,0 +1,8 @@
+#tlo-obrazek {
+    background-image: url("../img/deski.jpg");
+    background-repeat:  no-repeat;
+    background-position:top center;
+    background-size: 30% 30%;
+    background-attachment: fixed;
+
+}
